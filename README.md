@@ -24,15 +24,13 @@ As a lecturer, I enjoy:
 - Mentoring students on software projects
 - Connecting theory with industry practices
 - Encouraging project-based learning
-- Exploring emerging technologies with students
 
 ---
 
 ## Let's Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn profile
-- Email: your.email@example.com
+- GitHub: https://github.com/Eyeru
+- Email: eyeru.yeshewa20@gmail.com
 
 ---
 
